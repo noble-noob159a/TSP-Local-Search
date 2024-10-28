@@ -3,8 +3,8 @@ Solving the Traveling Salesman Problem by local search algorithm.
 
 Input: Distance matrix (2D array)
 
-Output: the path in string and path length.
+Output: The path in string (alphabet order) and path length.
 
-Can change num of iterations and run time limit in Traveling function(tsp.cpp) to adapt the number of cities.
+Can change the number of iterations and run time limit in Traveling function(tsp.cpp) to adapt the number of cities.
 
 Demo run in demo.cpp.
